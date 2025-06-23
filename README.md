@@ -12,10 +12,11 @@ A simple yet powerful PowerShell script to create timestamped ZIP backups of spe
 * [Notes](#bookmark=id.yq4grjh8ew7h)  
 * [License](#bookmark=id.t79skj698295)
 
-**Background**
+## **Background**
+
 This is a part of the need to Backup Chrome Profiles 
-    Blog post at: https://jorgep.com/blog/how-to-back-up-all-chrome-profiles-from-your-computer/
-    GitHub at: https://github.com/jorper98/ChromeCleaner
+* Blog post at: https://jorgep.com/blog/how-to-back-up-all-chrome-profiles-from-your-computer/
+* GitHub at: https://github.com/jorper98/ChromeCleaner
 
 ## **Features**
 
