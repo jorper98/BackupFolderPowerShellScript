@@ -78,4 +78,4 @@ This project is open-source and available under the [MIT License](https://openso
 
 ## **Contact**
 
-Feel free to contact me if you have ideas or issues with this script either here or via X: @jorper98
+Please feel free to contact me if you have ideas or issues with this script either here or via X: @jorper98
